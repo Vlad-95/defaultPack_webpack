@@ -1,0 +1,1 @@
+{"version":3,"sources":["big-layouts-elems/header.less","style.css"],"names":[],"mappings":"AACA,GACI,SAAA,CACA,cCAJ","file":"style.css","sourcesContent":["\r\nh1 {\r\n    color: @red;\r\n    font-size: 15px;\r\n}","h1 {\n  color: red;\n  font-size: 15px;\n}\n"]}
